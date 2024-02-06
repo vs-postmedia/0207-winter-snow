@@ -1,4 +1,5 @@
 export const menuItems = [
-    {value: 'abbotsford', label: 'Abbotsford'},
-	{value: 'vancouver', label: 'Vancouver'}
+	{value: 'grouse', label: 'Grouse Mountain'},
+    {value: 'seymour', label: 'Mount Seymour'},
+    {value: 'whistler', label: 'Whistler Village'}
 ];
